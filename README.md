@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Survey Question to Markdown Generator
 
 ## Project Specifications
@@ -207,3 +208,6 @@ project-root/
 │
 └── env/
     └── .env
+=======
+# StreamlitMarkdownProject
+>>>>>>> 1593acfa12bf487155a44c51c966d17342fdc013
